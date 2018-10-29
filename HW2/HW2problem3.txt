@@ -1,0 +1,34 @@
+Salvador Romero
+Machine Learning 
+Oct. 21 , 2019
+HW 2
+Problem 3
+
+Accurency = TP + TN/ TP+ FP+FN+TN
+Precision = TP / TP+FP 
+Recall = TP/TP +FN
+F1 Score = 2*(Recall*Precision)/(Recall + Precision) 
+
+ALGORITHM 1 
+Class 1 = positive 
+Class 2 = negative 
+TP = 20 TN = 17 FP=5 FN=8
+Accuracy = 7-% Precision =80% Recall = 70% F1-Score = 74%
+
+Class 1 = negative 
+Class 2 = positive 
+TP = 17 TN 20 FP= 8 FN =5
+Accuracy = 7% Precision = 68% Recall = 77% F1-Score = 72%
+
+ALGORITHM 2
+Class 1  = positive
+Class 2 = negative 
+TP = 18 TN= 22 FP=7 FN=3
+Accuracy = 80% Precision= 72% Recall = 85% F1-Score = 77%
+
+Class 1 = negative
+Class 2 = positive
+TP=22 TN=- 18 FP= 3 FN = 7 
+Accuracy = 80% Precision = 88% Recall = 75% F1-Score =  80%
+
+The algorithm that classifies each class with the best accuracy is algorithm 2. Even though algorithm one classified class 1 better than algorithm 2, the classification of class 2 was more accurate in algorithm 2 than in algorithm 1. When it came to determining which one would be more precise  in terms of class 1 then algorithm 1 would be the best pick with 80% compared to 72%. However, when it comes to precision in class 2 then algorithm 2 was better when it came to more precise than algorithm with 88% compared to 68%.  When dealing with recall Algorithm 2 had better Recall values for class 1 with 85% compared to 70%. Algorithm 1 had better recall values for class 2 with 77% compared to 75%. F1 Score did better for both classes in algorithm 2 than it did for algorithm 1. 

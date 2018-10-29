@@ -1,0 +1,51 @@
+Testing for KNN algorithm
+
+set 1:
+4.9, 3.0, 1.4, 0.2
+
+K=1
+Iris-setosa item 25
+K = 3
+Iris-setosa item 25
+Iris-setosa item 12
+Iris-setosa item 45
+K = 5
+Iris-Setosa item 25
+Iris-setosa item 12
+Iris-setosa item 45
+Iris-setosa item 30
+Iris-setosa item 10
+
+set 2;
+4.9, 2.4, 3.3, 1.0
+
+K = 1
+Iris-versicolor item 96
+K = 3 
+Iris-versicolor item 96
+Iris-versicolor item 97
+Iris-versicolor item 59
+K = 5 
+Iris-versicolor item 96
+Iris-versicolor item 97
+Iris-versicolor item 59
+Iris-versicolor item 80
+Iris-versicolor item 79
+
+set 3;
+4.9, 2.5, 4.5, 1.7
+
+K = 1
+Iris-versicolor item 58
+
+K = 3 
+Iris-versicolor item 58
+Iris-versicolor item 87
+Iris-versicolor item 83
+
+K = 5
+Iris-versicolor item 58
+Iris-versicolor item 87
+Iris-versicolor item 83
+Iris-versicolor	item 53
+Iris-virginica	item 111

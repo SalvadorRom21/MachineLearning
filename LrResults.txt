@@ -1,0 +1,4 @@
+These are the results for each of the test:
+1. 32.87 MPG
+2. 26.83 MPG
+3. 32.65 MPG
